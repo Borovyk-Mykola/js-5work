@@ -45,7 +45,7 @@
 54C:\Users\Nikolai\Documents\GitHub\js-5work\.htmlnanorc133248283451811478 0
 78C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\path-type\package.json133250217380880377 0
 87C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\caniuse-lite\data\regions\PS.js133250217432949307 0
-47C:\Users\Nikolai\Documents\GitHub\js-5work\dist133251889488805277 1
+47C:\Users\Nikolai\Documents\GitHub\js-5work\dist133256093978375727 1
 125C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133250217416586924 1
 117C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\parcel-reporter-clean-dist\test\unit\getFilesToRemove.spec.js133250217392540798 0
 104C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\@parcel\node-resolver-core\test\fixture\packages133250217415269134 1
@@ -75,7 +75,7 @@
 61C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\clone133250217389693468 1
 92C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\notiflix\build\notiflix-block-aio.js133251098185151948 0
 74C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\yaml\dist\types.js133250217410025336 0
-55C:\Users\Nikolai\Documents\GitHub\js-5work\src\index.js133251889487586745 0
+55C:\Users\Nikolai\Documents\GitHub\js-5work\src\index.js133256094088492916 0
 95C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\caniuse-lite\data\features\wake-lock.js133250217435786557 0
 73C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\get-port\index.js133250217384701723 0
 75C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\react-error-overlay133250217393348812 1
@@ -102,7 +102,7 @@
 97C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\caniuse-lite\data\features\eventsource.js133250217424063160 0
 61C:\Users\Nikolai\Documents\GitHub\js-5work\src\css\styles.css133251888285490869 0
 89C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\cosmiconfig\dist\loaders.d.ts.map133250217404889089 0
-55C:\Users\Nikolai\Documents\GitHub\js-5work\package.json133251098188290015 0
+55C:\Users\Nikolai\Documents\GitHub\js-5work\package.json133256088194402987 0
 76C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\type-fest\index.d.ts133250217400654946 0
 92C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\@jridgewell\resolve-uri\package.json133250217385231709 0
 86C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\yaml\browser\dist\parse-cst.js133250217402796367 0
@@ -2372,7 +2372,7 @@
 93C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\css-tree\lib\syntax\node\Dimension.js133250217409615333 0
 88C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\htmlnano\docs\versioned_sidebars133250217411300169 1
 72C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\json5\lib\cli.js133250217381430384 0
-66C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.77a9bc14.css133251887879277112 0
+66C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.77a9bc14.css133256093977928470 0
 76C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\json5\lib\index.d.ts133250217401540625 0
 74C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\json5\lib\index.js133250217386820120 0
 74C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\json5\lib\parse.js133250217391037354 0
@@ -4721,8 +4721,8 @@
 65C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\.bin\svgo133250217437285086 0
 69C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\.bin\svgo.ps1133250217437285086 0
 67C:\Users\Nikolai\Documents\GitHub\js-5work\node_modules\.bin\terser133250217437295088 0
-70C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.77a9bc14.css.map133251887879277112 0
-65C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.975ef6c8.js133251889488725284 0
-69C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.975ef6c8.js.map133251889488755299 0
-58C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.html133251887054788144 0
+70C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.77a9bc14.css.map133256093977936184 0
+65C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.975ef6c8.js133256093978092468 0
+69C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.975ef6c8.js.map133256093978092468 0
+58C:\Users\Nikolai\Documents\GitHub\js-5work\dist\index.html133256093978248727 0
 60C:\Users\Nikolai\Documents\GitHub\js-5work\assets\status.png133248283450873982 0
